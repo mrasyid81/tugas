@@ -1,1 +1,21 @@
+@media (max-width:1000px) {
+  .profil{
+    width:50%;
+    margin-bottom: 50px;
+  }
+  .footer-bottom{
+      text-align:center;
+     
+   }
+  
+ @media (max-width:670px){
+   .footer{
+    width:100%;
+   }
+   .footer-bottom{
+      text-align:center;
+     
+   }
+   
+}
 
